@@ -1,0 +1,7 @@
+127.0.0.1 - - [03/Apr/2022:23:41:18 -0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [03/Apr/2022:23:57:23 -0300] "GET /h2-console HTTP/1.1" 404 971
+0:0:0:0:0:0:0:1 - - [03/Apr/2022:23:57:24 -0300] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [03/Apr/2022:23:57:39 -0300] "GET /ProjetoJSF/faces/formulario.xhtml HTTP/1.1" 404 1069
+0:0:0:0:0:0:0:1 - - [03/Apr/2022:23:58:14 -0300] "GET /ProjetoJSF/faces/formulario.xhtml HTTP/1.1" 404 1069
+0:0:0:0:0:0:0:1 - - [03/Apr/2022:23:58:52 -0300] "GET /ProjetoJSF/faces/formularios.xhtml HTTP/1.1" 404 1071
+0:0:0:0:0:0:0:1 - - [03/Apr/2022:23:59:03 -0300] "GET /ProjetoJSF/faces/formularios.xhtml HTTP/1.1" 404 1071

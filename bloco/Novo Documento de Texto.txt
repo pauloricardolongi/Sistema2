@@ -1,0 +1,12 @@
+http://localhost:8080/ProjetoJSF/faces/exemplo.xhtml   = projeto jsf
+http://localhost:8080/ProjetoJSF/exemplo.xhtml= projeto html
+http://localhost:8080/ComponentesJSF/faces/formularios.xhtml 
+localhost:8080/Navegacao/faces/login.xhtml 
+localhost:8080/Navegacao/faces/menu.xhtml 
+localhost:8080/Navegacao/faces/produto.xhtml 
+http://localhost:8080/PrimeFaces/faces/pagina.xhtml
+
+ip- procurar o cmd(prompt de comando)- ipconfig- IPv4 - 192.168.1.16
+http://ip/nome do projeto/nome do arquivo- 
+ http://192.168.1.16/nome do projeto/nome do arquivo
+http://192.168.1.16:8080/nome do projeto/nome do arquivo
